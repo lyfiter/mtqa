@@ -8,7 +8,7 @@ Complex Question Answering (QA) is a fundamental and challenging task in NLP. Wh
 
 Here is an overview of the MTQA framework:
 
-[MTQA Framework](images/MTQA.pdf)
+[MTQA Framework](images/MTQA.png)
 Paper and Repository
 
 This repository hosts the code implementation for the MTQA framework, which we are currently finalizing for submission. Once the paper is accepted, we will officially release the full code and documentation to the public, enabling researchers and practitioners to utilize and build upon this work.
