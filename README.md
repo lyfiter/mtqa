@@ -24,4 +24,12 @@ The code will be released under [appropriate license] upon publication.
 
 If you use this code in your research, please cite the following paper:
 
-MTQA: Matrix-of-Thought Question Answering Framework
+@misc{tang2025mtqamatrixthoughtenhancedreasoning,
+      title={MTQA:Matrix of Thought for Enhanced Reasoning in Complex Question Answering}, 
+      author={Fengxiao Tang and Yufeng Li and Zongzong Wu and Ming Zhao},
+      year={2025},
+      eprint={2509.03918},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.03918}, 
+}
